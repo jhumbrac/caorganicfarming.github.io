@@ -1,6 +1,9 @@
 body {
-background-color: #FFFAFA;
-}
-h1, h2, h3, p {
+	background-color: #FFFAFA;
 	color: #006400;
+	font-size:16px;
+	font-family:times, serif;
+}
+h1, h2 {
+	font-family:helvetica, arial, sans-serif;
 }
